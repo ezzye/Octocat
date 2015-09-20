@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Clone copies a git repo into a new folder.  So it creates a folder so no need to creat a folder for a cloned repo.  Also, it creates a remote origin.
