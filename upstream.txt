@@ -1,1 +1,1 @@
-Expalin what the "upstream" remote is usually used for, in your own words
+Upstream is the name used for the original repo that has been cloned.  To use you need to set up a new upstream remote so that you can keep your local copy insynch.
