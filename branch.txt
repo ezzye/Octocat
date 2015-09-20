@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is an alternative copy of code.  A what if.
